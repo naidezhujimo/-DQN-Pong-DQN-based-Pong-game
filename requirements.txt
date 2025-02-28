@@ -1,0 +1,9 @@
+numpy==1.26.4
+gymnasium==1.1.4
+torch==2.5.1
+tensorboard==2.19.0
+tensorboardx==2.6.2.2
+ale-py==0.10.2
+
+# In the terminal or command line, run the following command.
+# pip install -r requirements.txt
